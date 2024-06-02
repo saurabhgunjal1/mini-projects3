@@ -1,0 +1,9 @@
+div {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+  /* border: 1px solid black; */
+  justify-content: start;
+}
